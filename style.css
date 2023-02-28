@@ -1,0 +1,35 @@
+body{
+    margin: 0px;
+    text-align: center;
+    background-color: #2E3840;
+    color: #4E6E81;
+    font-family: 'Montserrat', sans-serif;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.top{
+    background-image: url("im2.jpg");
+    height: 500px;
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+    font-size: 40px;
+}
+h1{
+    margin: 0px;
+    padding-top: 200px;
+   
+}
+img{
+   margin-top: 40px;
+   height: 300px;
+}
+.contact-me,.bottom-container{
+    background-image: url("im2.jpg");
+    text-decoration: none;
+    color: #4E6E81;
+}
+a{
+    text-decoration: none;
+    color: #4E6E81;
+    margin: 0px;
+}
